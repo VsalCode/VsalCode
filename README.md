@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! I`m Muhamad Faisal Ilham, I`m currently studying in Koda Academy</h2>
+<h2 align="left">Hi 👋! I'm Muhamad Faisal Ilham, currently studying at Koda Academy</h2>
 
-<h4 align="left">I'm currently diving deep into Fullstack Web Development with a focus on Golang through an intensive bootcamp at Koda Academy. With a foundation in frontend development and graphic design, I'm expanding my skills to become a well-rounded developer.</h4>
+<h4 align="left">I'm currently immersing myself in Fullstack Web Development with a focus on Golang through an intensive bootcamp at Koda Academy. With a background in graphic design, I'm expanding my skill set to become a well-rounded developer.</h4>
 
 ###
 
@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:muhamadfaisallilham@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/faisal-ilham-590113304/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
