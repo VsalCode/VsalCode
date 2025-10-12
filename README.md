@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! I'm Muhamad Faisal Ilham, currently studying at Koda Academy</h2>
-
-<h4 align="left">I'm currently immersing myself in Fullstack Web Development with a focus on Golang through an intensive bootcamp at Koda Academy. With a background in graphic design, I'm expanding my skill set to become a well-rounded developer.</h4>
+<h2 align="left">Hi 👋! I'm Muhamad Faisal Ilham, Fullstack Web Developer</h2>
 
 ###
 
